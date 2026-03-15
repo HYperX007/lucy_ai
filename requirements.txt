@@ -4,7 +4,7 @@ langchain
 langchain-groq
 langchain-community
 langchain-core
-sentence-tranformers
+sentence-transformers
 faiss-cpu
 python-dotenv
 pydantic
