@@ -10,7 +10,7 @@ python-dotenv
 pydantic
 numpy
 torch
-tranformers
+transformers
 requests
 rich
 tavily-python
